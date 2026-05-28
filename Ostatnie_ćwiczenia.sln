@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ostatnie_ćwiczenia", "Ostatnie_ćwiczenia\Ostatnie_ćwiczenia.csproj", "{5FCFDC15-B47D-4292-9FF6-1FED390DBBE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FCFDC15-B47D-4292-9FF6-1FED390DBBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCFDC15-B47D-4292-9FF6-1FED390DBBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCFDC15-B47D-4292-9FF6-1FED390DBBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCFDC15-B47D-4292-9FF6-1FED390DBBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
